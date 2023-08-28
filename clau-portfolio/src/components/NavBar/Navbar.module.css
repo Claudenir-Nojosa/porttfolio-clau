@@ -1,0 +1,28 @@
+.header {
+  width: 100%;
+  margin-top: 2rem;
+  border-top: 2px solid #000000;
+  border-bottom: 1px solid #000000;
+}
+.lista {
+  display: flex;
+  justify-items: center;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.listaItemLinkedin {
+  font-size: 1.4rem; 
+  padding-right: 7rem;
+}
+.listaItem {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.navigationBar {
+  padding: 0.4rem;
+}
+.paragrafo {
+  padding-top: 0.4rem;
+  padding-left: 1.4rem;
+}
